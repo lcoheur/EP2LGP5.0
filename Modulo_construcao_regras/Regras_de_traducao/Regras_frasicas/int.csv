@@ -1,0 +1,13 @@
+VO	O V
+VO	V
+V	S V_cop O  V O
+V	S V O
+VO	V S V_cop S V_cop S V_cop S V_cop S V_cop
+SVO	V_cop
+SV	V_cop
+V	S O
+VS	S
+VS	S
+VS	S
+V	O
+SV	O V_cop

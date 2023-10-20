@@ -1,0 +1,503 @@
+não conseguir	NÃO_CONSEGUIR
+Tu pensas que o tema é para os ouvintes	TU PENSAR TEMA SER [ PARA_OUTROS ] OUVINTE
+Mas olhem	MAS OLHAR
+eu expliquei que era chocolate	EU EXPLICAR SER CHOCOLATE
+Sim estás com confusão sobre a informação da europa e é muito difícil	SIM TU CONFUSÃO INFORMAÇÃO EUROPA [ SER_MUITO_DÍFICIL ]
+a Isabel viu a escola de Manilla que era muito boa	IX ( ela ) VER ESCOLA AQUELA SER_MUITO_BOA MANILLA IX ( essa ) SER_MUITO_BOA
+O velocímetro está estável	[ PONTEIRO_DO_VELOCÍMETRO_ABANAR_DENTRO_DOS_LIMITES ]
+e selecionaram-me	SELECIONAR-ME
+Calma	CALMA
+Pensei haver confusão	( ) IGUAL PENSAR CONFUSÃO PRONTO
+Parece que sentia bocadinho à parte não	ANOS [ ATÉ_AGORA ] EU PARECER JÁ UNIÃO COLEGA OUVINTE UNIÃO PARECER
+estou quase no fim	QUASE FIM PRONTO
+apareceu um surdo	[ DE_FACTO ] APARECER N ( 1 ) SURDO IGUAL
+também no futuro	TAMBÉM [ MAIS_PARA_À_FRENTE ]
+divulga-se	DIVULGAR
+estou aqui a imaginar e a pensar	IX ( então ) IMAGINAR PENSAR
+Vou mostrar mais a frente	CLASSIFICADOR AQUISIÇÃO
+Como se desenrolou a história da minha vida	COMO AVANÇAR HISTÓRIA EU VIDA MEU
+a minha equipa toda era amesma	EQUIPA MEU TODO SER_MESMO
+A lebre foi ficando cada vez mais longe	( ) [ FICAR_LONGE ]
+só se estiver aberto	[ SÓ_SE_ESTAR ] ABERTO
+É mais fácil gestuar só elefante	[ SER_MAIS_FÁCIL/SER_MAIS_PRÁTICO ] ELEFANTE
+da interação etc ...	COMO RELAÇÃO VÁRIOS
+que nos influenciou para criar novos gestos	DAR [ INFLUENCIAR_ME ] CRIAR
+segundo Ferreira Brito 1995	[ ESTE-DOIS ] FERREIRA_BRITO 1995
+É segunda-feira	[ O_QUÊ ]
+e como são adquiridos pela criança	SIM PODER CLASSIFICADOR ADULTO NÍVEL SURDO
+o homem era autóritário ( tinha o poder )	HOMEM ELE [ SER_AUTORITÁRIO ] [ TER_SUPERIORIDADE ]
+ou somos da mesma cultura do mesmo país	OU MESMO CULTURA AMBOS PAÍS MESMO
+ainda não tinha um ano	IDADE ZERO
+fugiu	CORRER
+em que mostrem mais surdos	VER ESPERAR BOM FUTURO SURDO
+Lá vou eu como porta-voz apresentar	EU IR APRESENTAR LÁ PORTA-VOZ
+Influenciou-me em quê	INFLUENCIAR-ME [ O_QUÊ ]
+a minha famíla tem a certeza que ele é ouvinte	FAMÍLIA MEU TER_CERTEZA OUVINTE
+Eu sou uma pessoa igual às outras que transpôem as suas barreiras	EU PESSOA IGUAL OUTRA PESSOA TER BARREIRA
+começou a conduzir	[ CONDUZIR_CARRO ]
+com especificações de cada um	IGUAL ESPECIFICAR
+vários países	VERDADE PAÍS
+O castor com a bandeira na mão perguntou : então podemos começar	[ CASTOR-BANDEIRA_MÃO ] ÓCULOS ENTÃO COMEÇAR ENTÃO XXX
+Se é suficiente então continua assim ou muda-se	[ SUFICIENTE-ISTO ] SUFICIENTE ENTÃO CONTINUAR CONTINUAR OU MUDAR ]
+força	FORÇA
+Começou a andar todo animado e espantado e a tromba comprida a balançar-se	[ PATAS_ELEFANTE_ANDAR-ANIMADO ] [ TROMBA_COMPRIDA_BALANÇAR-ESPANTADO ] [ PATAS_ELEFANTE_ANDAR-ANIMADO ]
+aumentou-se o número de homens machistas a bater nas mulheres e etc	AUMENTAR MULHER HOMEM MACHISTA BATER VÁRIOS
+quando entrei na escola	ESCOLA ANTES ALUNO
+Eu pergunto-lhe	EU PERGUNTAR ELE
+ver e decorar a marca	VER DECORAR
+mais aquela empresa a MOLA	MAIS AQUELA EMPRESA MOLA
+para mostrar o programa a todos	[ MOSTRAR_A_TODOS ] ISTO
+queres muito isso	QUERER [ QUERER_MUITO ]
+Esperem	ESPERAR
+os dois andaram à pulha um ao outro	LUTAR+
+De convívios de coisas e de novidades	CONVÍVIO COISAS NOVIDADES
+O elefante a olhar para a cobra de cima para baixo	[ PATAS_ELEFANTE_OLHAR_PARA_COBRA ]
+De certeza que vou ficar em primeiro lugar	PRIMEIRO CERTEZA [ TREINAR-MUITO ]
+Eu vejo a história e dá-me felicidade	EU VER HISTÓRIA [ DAR_ME ] FELIZ
+por causa do crocodilo que mordeu e puxou-me a tromba	CULPA CROCODILO [ CROCODILO_MORDER_TROMBA_PUXAR ]
+não percebem a diferença como ser/estar entre o trabalho e vida pessoal	PERCEBER NÃO [ MUDAR_POSTURA_PESSOAL_PROFISSIONAL ] PERCEBER NÃO
+normalmente todos choram	[ PRIMEIRA_VEZ ] COMUNICAÇÃO CHORAR DEPOIS
+Agora outro supermercado	OUTRO
+Penso e espero que vocês vejam que é verdade	EU PENSAR EU ESPERAR VOCÊS VER [ SER_VERDADE ]
+Assim portugal verá	PORTUGAL VER
+há médicos que gestuam	GESTUAL MÉDICO
+Cabra e bode também já sabem distinguir pelo gesto	CABRA BODE [ JÁ_SABER ] SEPARAR
+É diferente	VER [ SER_BOM ] [ SER_DIFERENTE ]
+eu aceito opiniões diferentes	EU ACEITAR OPINIÃO DIFERENTE
+e bateram um contra o outro	[ DOIS_HOMENS_A_CHOCAR_UM_CONTRA_O_OUTRO ]
+abriu a fechadura da porta relacionado ao carro que foi buscar	[ ABRIR_FECHADURA ] [ ABRIR_PORTA ] APONTAR BUSCAR CARRO [ ESTAR_LIGADO ]
+Não importa que esteja em 10º lugar	Décimo LUGAR NÃO_IMPORTAR
+a conduzir e espantado que é bonito e diferente	CONDUZIR BONITO DIFERENTE
+Há uma variedade ( de temas )	MUITO VÁRIOS
+É isso	LER [ SER_ISSO ]
+É muito chato soletrar o nome através do alfabeto manual	SER NOME [ MUITO_CHATO-SOLETRAR ]
+outro espaço com vários pães diferentes	ESPAÇO PÃO VÁRIOS DIFERENTE+
+O título é elefante de tromba pequena	TÍTULO [ ELEFANTE_TROMBA_PEQUENO ]
+A minha mãe tinha feito uma ecografia há 3 dias	MÃE [ TRÊS_DIA ] DIA VER ECOGRAFIA
+e há normas na língua	TER LÍNGUA NORMAS ( = REGRAS )
+Eu ia a andar	EU FORTE
+Sinto que atinjo bons tempos na natação	SENTIR NATAÇÃO EU TEMPO BOM MENOS
+existe	HAVER
+são classificadores engraçados	DELE ENGRAÇADO ISTO PRENDA [ PRENDAS_CAIR ] MOCHILA [ PRENDAS_CAIR ]
+Nós agora trabalhamos muito pouco	NÓS AGORA TRABALHAR MUITO POUCO
+faz-se o sorteio	[ SORTEAR_UM_PAPEL ]
+e senti que era isto mesmo ser surdo é isto	EU SENTIR [ ISTO_SER ] SURDO [ ISTO_SER ]
+Abriu o carro com a chave na fechadura e abriu com o puxador da porta e sentou-se	[ ABRIR_CARRO ] [ ABRIR_PORTA ] [ ABRIR_PUXADOR_PORTA ] SENTAR
+Depende das pessoas surdas dizem o gesto LIDL ao oralizar `` Lidl ''	DEPENDER PESSOA SURDO DIZER DIZER LIDL
+e que precisamos cada vez mais de colaboração	PRECISAR COLABORAÇÃO MAIS COLABORAÇÃO
+Uma sopa com um cheiro diferente	SOPA DIFERENTE+ CHEIRO
+Peço a todos os surdos que olhem para si mesmo	EU [ POR_FAVOR ] TODOS SURDO AUTOREFLECTIR
+e eu observo isso	EU OBSERVAR
+tu passas a concordar entre aspas e foi de forma involuntária	TU [ DIZER_SIM_COM_CABEÇA ] [ ENTRE_ASPAS ] [ MÃO_BAIXAR_CABEÇA_PARA_DIZER_SIM ]
+De seguida um homem magro com uma poupa e uns óculos	SEGUIR HOMEM MAGRO POUPA ÓCULOS
+Se fossem vistas à conversa eram punidas	DESCOBRIR DESCOBRIR-SE VER-ME CONVERSAR DESCOBRIR PUNIR
+falaram-se por causa da filha Isabel filha do rei de Portugal	FALAR POR_CAUSA IX ( ali ) IX ( ela ) FILHA REI FILHA PORTUGAL I
+E continuei em frente	CONTINUAR
+depois andamos em direção até ao café	DEPOIS SAIR ANDAR DIREÇÃO CAFÉ SER
+Vejo poucos	VER POUCO
+O Pedro Morão disse muito bem	NG ( Pedro Morão ) SER ( FOI ) DIZER CERTO
+Ao cair	CAIR
+eu converso e falo de coisas simples e curtas	EU PERCEBER CONVERSAR SIMPLES CURTO FALAR CURTO [ SER_ISSO ]
+Quero ter a tromba comprida e grande igual à dele	[ TROMBA-SER_COMPRIDA ] IGUAL ELE IGUAL EU
+E este o gesto para cadeira	DOIS SIM
+o carrinho cheio de compras	COMPRAS CARRINHO [ MONTE_COMPRAS-CARRINHO ]
+eu a ver ( ficar a saber )	EU VER
+As marcas já sugiram há muito tempo	MARCA JÁ MUITO [ HAVER_MUITO_TEMPO_ATRÁS ]
+Atualmente não tem havido mais nada	AGORA [ EM_DIANTE ] NÃO_HAVER_NADA
+O que é isso	ISSO
+os dois homens caíram e a rebolar	HOMEM DOIS [ DOIS-HOMENS-A-CAIR ]
+Tenho marido	MARIDO MEU TER
+Mas estou com uma grande dor dentro da cabeça	[ DENTRO-CABEÇA ] DOR
+Os professores manteêm-se aqui	PROFESSOR [ FICAR_AQUI ]
+também quero entrar em ambos	EU QUERER ENTRAR TAMBÉM AMBOS
+não querer	NÃO QUERER
+( ) Olhei para um lado e para o outro	ANDAR EU XXX [ OLHAR_PARA_OS_DOIS_LADOS ]
+foi ver e percebeu que a criança perdeu a mãe	IR ANDAR-CÁ PERCEBER CEGO// MÃE PERDER
+o que é morfema aditivo morfema repetido morfema duplicado morfema alternativo morfema zero e morfema subtrativo	O_QUE_SER MORFEMA [ ADITIVO-MORFEMA ] MORFEMA REPETIDO MORFEMA MÃO DOIS MORFEMA MORFEMA [ ALTERNATIVO-MORFEMA ] MORFEMA [ ZERO-MORFEMA ] MORFEMA SUBTRATIVO
+eu também vi os atletas presentes que estavam lá	TAMBÉM EU VER ATLETA PRESENÇA [ ESTAR_LÁ ]
+e poder dizer com orgulho e satisfação que fiz parte	DIZER ORGULHO INCLUIR ( ) SATISFAÇÃO
+é natural	DIZER AQUI
+Não concordar	EU CONCORDAR NÃO
+supermercado pingo doce	SUPERMERCADO [ DOCE_MEL ]
+Então como é que é feito o desenvolvimento linguístico das crianças	HAVER DIFERENTE ÁREA ENTÃO TRABALHO
+podemos aproveitar e colocar paus partidos	APROVEITAR PÔR MADEIRA PAU PEDAÇOS MADEIRA PARTIR+
+É pensão é importante sim e eu concordo	PENSÃO IMPORTANTE SIM EU CONCORDAR EU CONCORDAR
+o grupo foi aumentando o que fazer	IX ( eles ) AUMENTAR O-QUE-FAZER
+passa-se por umas mudanças do gesto	MUDAR
+eles começam a comunicar	OU GESTO PRONTO
+Não vou dizer que não	DIZER NÃO
+Não vou fazer	NÃO_FAZER
+porque não existiam centros comerciais ou supermercados	PORQUE [ CENTRO_COMERCIAL ] [ APONTAR-DOIS ] SUPERMERCADO NÃO_HAVER
+nos Estados Unidos em 1857	ESTADOS UNIDOS DA AMÉRICA LÁ 1857
+Se vocês não sabem	SE TU [ NÃO-SABER ]
+mas cá fora em alguns mc têm uma zona de comer e de brincar com uns escorregas	FORA TER COMER BRINCAR ESCORREGAS IGUAL DENTRO MC DELES
+agora mudou para avião	AGORA MUDAR AVIÃO
+CLARO	VER
+... de todos os trabalhos que há aqui na Casa Pia no IJRP	TODOS TRABALHADOR DENTRO AQUI NG ( CASA-PIA ) IJRP
+Sim desceu	CLARO
+que isso tem duas características na negação	TER [ CARACTERÍSTICA-UM ] [ CARACTERÍSTICA-DOIS ] SER ISSO NEGAÇÃO
+que seria melhor coloca-lo no Jacob	SIM [ SER_MELHOR ] [ COLOCAR_NA_ESCOLA ]
+também nas várias marcas de carros	TAMBÉM MARCA CARRO TAMBÉM VÁRIOS
+Eu não faço ideia do que significa	EU ESCREVER IMAGINAR [ NÃO_HAVER ]
+o homem estava andar e o outro homem também a andar no lado oposto	HOMEM ANDAR [ ANDAR-HOMEM ] [ ANDAR-ANDAR ]
+As pessoas passaram para as redes sociais	[ PESSOAS_PASSAR_DA_TV_PARA_REDES_SOCIAIS ]
+e eu ver uau	EU VER UAU
+connosco	DENTRO LÁ EU DENTRO AQUI PRONTO
+Não é	NÃO_SER
+Às vezes dia sim dia não dependia conforme os horários dos turnos	VIR [ ÀS-VEZES ]
+trabalhar na área do cinema	PROFISSÃO QUERER CINEMA
+A pensão esqueçam só depois é à parte	PENSÃO PARAR ESQUECER DEPOIS [ À_PARTE ]
+Para nós o mais importante era a madeira das árvores caídas	NÓS SER_MAIS_IMPORTANTE MADEIRA [ ÁRVORE_CAIR ]
+Os estrangeiros que vinham visitar este país	OUTRO PESSOA ESTRANGEIRO VIR VISITAR ESTE PAÍS
+É um elefante	ELEFANTE
+só mulheres e não só	MULHER SÓ NÃO
+Eles são o modelo certo	ISSO CERTO MODELO [ SER_ISSO ]
+se há ou não falhas	FALHA HAVER OU [ NÃO_HAVER ]
+escolhemos outras pessoas para falar sobre outra área da outra perspetiva	[ POR_OUTRO_LADO ] OUTRO PESSOA TAMBÉM ÁREA OUTRA ESCOLHER
+Não há	NÃO_HAVER
+Os dois nervosos e os seus olhos fixaram um ao outro por um período de tempo	NERVOSO [ DOIS_OLHOS_FIXAR_OUTROS_2_OLHOS ]
+A tromba começou a balançar	[ TROMBA_COMPRIDA_BALANÇAR-SE-ESPANTO ] ]
+os homens também fazem parte e ajudam	HOMEM [ FAZER_PARTE ] AJUDAR
+continuou a conduzir e foi avançando pelo caminho fora	CONDUZIR [ CARRO_ANDAR ] AVANÇAR
+Mas depois espalhou-se o gesto `` OK ''	( ) DEPOIS ESPALHAR OK
+Agora é sobre nós	AGORA NÓS LIGAR
+Até chegarmos aqui	[ ATÉ_AGORA ] DAR-ME AGORA
+Continuou andar	[ PATAS_ELEFANTE_ANDAR ]
+Como é que ficou assim tão grande	[ TROMBA_GRANDE-COMO ]
+tal como no interior do mc há uma zona de jogos e brincadeiras para crianças	JOGO BRINCADEIRA CRIANÇAS TER XXX ( ) ZONA COVILHÃ AQUI
+Eu até agora tenho nadado bem	EU NADAR [ ATÉ_AGORA ] BOM
+porque o objetivo disto é dar a conhecer a todos os ouvintes a conceptualização sobre a linguagem gestual	OBJETIVO ESTE DAR [ NÓS-TODOS ] OUVINTE IGUAL CONCEPTUALIZAÇÃO LINGUAGEM GESTUAL
+Eu pus este ponto no slide	EU PÔR
+Sim	SIM ALI SIM
+tentar direcionar para a área deles	LIGAR ÁREA TENTAR CORRESPONDER ÁREA VOSSA
+E embateram-se	EMBATER
+XXX	AH TU VISUAL
+terceiro são discriminadas por baixo salário	TERCEIRO [ SER_DISCRIMINADO ] SALÁRIO POUCO
+Riu-se trocistamente	EU [ RIR-TROÇA ]
+Por exemplo se aparecer uma nova marca de carro	EXEMPLO CARRO MARCA NOVO
+Tu disseste-me	TU DIZER-ME
+segue a ordem do português	ACOMPANHAR EXATO PORTUGUÊS [ LÍNGUA_GESTUAL ] EXATO
+que está ligado ao acender a luz	LIGAR [ ACENDER_LUZ ]
+que nós puxamos	DAR NÓS PUXAR
+Só um bocadinho	BOCADINHO
+Lidl	LIDL
+2º a interiorização da linguagem e cognição da pessoa surda durante o seu crescimento	SEGUNDO LINGUAGEM INTERIOR COGNIÇÃO SURDO COMO ELE CRESCER
+porque não ver aqui em Portugal sobre a Língua Gestual	PORQUE VER AQUI PORTUGAL LÍNGUA GESTUAL AQUI
+Eu quero a boca igual ao meu filho	EU QUERER TU QUERER [ APONTAR_BOCA ] IGUAL ELE FILHO MEU
+XXX	UM
+se está seca ou molhada	ESSE SECO OU
+e não se pode dizer que este é melhor	NÃO_PODER DIZER ESTE MELHOR
+Mas à parte	MAS [ À_PARTE ]
+divulga-se	DIVULGAR
+são de Síndrome de Down	ELE ( SER S 21 DOENÇA [ FORMA_DOS_OLHOS ] SER
+neste tempo todo pronto	g+MARC ( ter estado lá ) DECORRER_TEMPO PRONTO
+e outro era magro	1 MAGRO
+que ficassem em casa	[ FICAR_SEMPRE_CASA ]
+- as mulheres têm que estar caladas e submissas	ELA MULHER FICAR [ SER_OBRIGADA ] CALADO SUBMISSO
+Pergunto-me se funcionará da mesma maneira para outras línguas gestuais	EU PERGUNTAR ESTRANGEIRO [ LÁ_FORA ] LÍNGUA GESTUAL DELE TER IGUAL
+eu pensava que os atores tinham nariz empinado	SURDO EXCLUIR ARROGANTE NÃO EU
+entre aspas	EU DIZER [ ENTRE_ASPAS ]
+porque eu presenciei	EU ( ) SER VER ( ) SER
+ou na federação ou outra coisa qualquer relacionado ao trabalho de equipa	OU FEDERAÇÃO ALGO NÃO_INTERESSAR ALGO EQUIPA SOBRE
+E fazes bem	BEM
+O que é que eu faço ...	EU [ O_QUE_FAZER ]
+Verdade	VERDADE
+devemos deixá-la um poquinho de lado	[ DEIXAR_LADO ] BOCADINHO
+eu ver e pensar	IX ( eu ) VER PENSAR NG ( Per Äron Borg )
+antigamente os surdos idosos não gestuavam avião assim	ANTIGAMENTE SURDO IDOSO [ NÃO-AVIÃO ]
+Por exemplo no passado ...	[ POR_EXEMPLO ] PASSADO
+de marcas diferentes	MARCA DIFERENTE
+Como é que eles iam às compras	ELE COMO COMPRAR COMO
+Porque se a madeira está seca o fogo arde depressa e cozinha-se rápido	CULPA SE MADEIRA SECO [ FOGO_ALASTRAR ] COZER RÁPIDO
+Pediu ao filho para se mudar para ali	IX ( ele ) PESSOA/ELE IX ( eu ) PEDIR IX ( tu ) MUDAR_SÍTIO
+Mas com o movimento muito semelhante à acção	FONOLOGIA MAS MOVIMENTO SEMELHANTE ACÇÃO DECORRER
+assim essas árvores que caíram aproveitamos para cortá-las parti-las ...	ENTÃO ESSE MADEIRA ÁRVORE [ ÁRVORE_CAIR ] APROVEITAR [ CORTAR_LADO_ESQUERDO ] [ CORTAR_LADO_DIREITA ] [ CORTAR_MACHADO ]
+mas fora não há	MESA ( ) BRINCADEIRA
+pouco largo	[ POUCO_LARGO ]
+Eu aprendi mais com a CNJS	EU APRENDER MAIS ALI [ CNJS-ALI ]
+Acompanhar bem é muito grande/vasto com muitos temas sim	BEM ACOMPANHAR BEM [ SER_MUITO ] GRANDE TEMAS SIM
+sentou-se e começou a conduzir	[ SENTAR_NO_CARRO ] [ CONDUZIR_CARRO ]
+um rapaz gordo com o cabelo volumoso e um gorro na cabeça estava a andar	UM HOMEM RAPAZ GORDO [ FORMA_DO_CABELO ] XXX TRANSPIRAR ANDAR XXX
+que me permite continuadamente interiorizar várias coisas	EU [ DAR_ME ] INTERIORIZAR CONTINUIDAMENTE
+ficou assim o gesto para Minipreço	[ TALÃO_IMPRESSO ] [ NOME_GESTUAL ] [ TALÃO_A_SER_IMPRESSO ] MINIPRE//
+a minha mãe não percebia	MÃE MEU NÃO_PERCEBER
+eu sou Surdo	EU SER SURDO SER
+Pronto	ANTES [ ENTRAR-DAR ] HOJE
+O velocímetro abrandou	[ VELOCÍMETRO_ABRANDAR ]
+Pronto o Par Aron Borg quis voltar e passou ao irmão que ficou cá em Portugal	PRONTO IX ( eu ) QUERER IX ( eu ) PASSAR IRMÃO ESTAR_CÁ PORTUGAL IX ( aqui )
+o que é talão	[ O_QUÊ_SER-APONTAR-TALÃO ]
+que é mais fácil	[ SER_MAIS_FÁCIL/SER_MAIS_PRÁTICO ]
+E ficou tudo bem	[ TUDO_BEM ]
+não é meu	MEU NÃO_SER
+Umas faziam muitas compras e outras poucas	COMPRAR [ CARRINHO_CHEIO ] OU [ CARRINHO_MEIO_VAZIO ]
+Avô disse : -Ok Ok se queres	AVÔ OK QUERER
+Vais ter que se haver comigo mas como	[ IR_TER_QUE_SE_HAVER_COMIGO ] COMO
+O castor que está ali pendurado na meta viu a lebre	META
+que têm uma visão boa e ampla	COMPARAR OUVINTE NÃO
+Às vezes sabe gestuar bem	[ ÀS-VEZES ] SABER_BEM GESTUAR
+Teve uma ideia para se vingar da pessoa	ZANGAR IDEIA PESSOA VINGAR
+Há muitos jovens de vários sítios como Braga Aveiro etc.	[ HAVER_MUITO ] JOVEM [ JOVEM-HAVER ] IGUAL BRAGA [ APONTAR-DOIS ] AVEIRO [ OUTROS_SÍTIOS ]
+O autocarro seguiu a sua viagem	HOMEM [ AUTOCARRO_ANDAR ] [ IR-EMBORA ]
+Que tem estado há anos sem exercício físico	ANOS [ ATÉ_AGORA ] NADA [ EXERCÍCIO_FÍSICO ]
+e eram tantos os sítios para ir	[ IR_MUITOS_SÍTIOS ]
+Eu fico surpreso	EU UAU
+e deixou-se cair para dentro do cesto	[ TARTARUGA_DEIXAR-SE_CAIR ]
+porque não era como quando estava com os ouvintes a falar aqui não tinha vergonha	EU PORQUE CULPA CULPA [ LÍNGUA_GESTUAL ] ESSE OUVINTE CONVERSAR EU VERGONHA [ NÃO_HAVER ]
+Faz parte do meu trabalho enquanto presidente da CNJS	TRABALHO MEU [ ESTAR_DENTRO ] PRESIDENTE CNJS
+Pois	POIS
+Não é o caso	NÃO_SER
+em v todos os pedaços	MESMO [ EM_V ] +
+deram-lhe palmadas	AMIGO [ VIR_TODOS ] PARABÉNS [ DAR_PALMADAS ]
+Os dois homens iam dentro do autocarro a gestuar	HOMEM [ DENTRO-DO-AUTOCARRO ] GESTUAR
+pintar um papel	INTERESSANTE
+Na conferência quem é público-alvo	CONFERÊNCIA ÁREA QUEM AUDIÊNCIA
+Porque eu e o meu irmão somos surdos ao mesmo tempo	CULPA IRMÃO EU-ELE [ SER_AO_MESMO_TEMPO ] SURDO [ DAR-ME ] PORQUE
+assimilar [ a forma ] e criar o gesto	ASSIMILAR CRIAR GESTO
+Eles trabalhavam as 10 horas normais de trabalho	ELE HORAS NORMAL 10 HORAS ISSO
+E entrei	EU OLHAR PRONTO
+depois eu fui para a escola Jacob há muitos anos	DEPOIS LÁ EU EU ESCOLA JACOB [ HAVER_MUITOS_ANOS ] +
+Agora aparece de vez em quando que é razoável	[ APARECER_DE_VEZ_EM_QUANDO ] [ SER_RAZOÁVEL ]
+Pegou e levantou a folha que estava na tromba para ver a sua tromba	[ TROMBA_COMPRIDA-PEGAR_LEVANTAR_FOLHA_VER_DENTRO ]
+por fim encontramos a piscina e entramos	ENTRAR FINALMENTE CONSEGUIR ENTRAR
+Eu não sei muito bem como tudo funciona	EU [ NÃO_SABER ] BEM NÃO
+O trabalho é na área da morfologia	DENTRO HAVER MUITO VÁRIOS
+As árvores passavam	[ LEBRE_CORRER ] [ ÁRVORES_PASSAR ]
+até o fogo ficar quente	QUENTE [ AQUECER_MÃOS ]
+Haa está bem	[ TROMBA_COMPRIDA-AI_SIM
+Depende de cada um	PARECER NÃO EU [ OLHAR_PARA_ELE ]
+O meu nome gestual é NG	[ NOME_GESTUAL_MEU ] MIGUEL
+Veio uma outra mulher	ELE MULHER OUTRO VIR
+tem a ver com as normas dentro da numeração	TER NORMAS ( = REGRAS ) PRÓPRIO DENTRO TER
+nada	MAIS NADA [ SELECIONAR_PEDIDO_QUIOSQUE_DIGITAL ] OK [ TUDO_BEM ] EU
+Nariz	SIM
+Agora é sobre os supermercados	AGORA SER SUPERMERCADO
+Porquê	PORQUÊ
+fim da história	FIM
+O meu filho estuda em Castelo de Vide	FILHO MEU ESCOLA LÁ [ CASTELO_DE_VIDE ]
+É isso que falta ...	FALTAR
+eu tentar fazer a mesma forma para te aliciar/manipular-te	EU TENTAR ALICIAR
+e ( a pessoa surda ) explica à pessoa ouvinte	[ EXPLICAR-À_PESSOA_OUVINTE ]
+Segundo falar muito bem	[ SEGUNDO-DOIS ] FALAR [ MUITO-BEM ]
+Não o xxx tinha dito	NÃO [ NG-ELE ] ANTES DIZER
+aproveitar a área da medicina mais	APROVEITAR ÁREA MEDICINA
+Pronto fica agora de lado	BEM ( ) [ PÔR_DE_PARTE ]
+outro homem magro de cabelo em pé estava também a andar	OUTRO MAGRO [ FORMA_DO_CABELO ] xxx ANDAR
+Eu vou falar sobre isto	EU FALAR LIGADO ISTO
+assitiu tudo no teatro e com espanto reparou que estava ali o Abade L'Epee	ASSISTIR_TUDO_ ESPANTO NG ( ABADE L'EPEE ) [ APARECER-AQUI ]
+Primeiro falta investigar	PRIMEIRO INVESTIGAR FALTAR
+com ela não havia comunicação	[ COMUNICAÇÃO_FALHAR
+( ) e correu tudo bem	ANDAR
+E esquece-se do outro colega	ELE ESQUECER OUTRO COLEGA
+Passemos para o ponto seguinte	SEGUINTE
+com o objetivo de tentarem avançar	OBJETIVO TENTAR AVANÇAR
+Sabem falar pouco Língua Gestual	ELE SABER FALAR POUCO [ LÍNGUA_GESTUAL ]
+A CNJS é mesmo a representante nacional dos jovens em Portugal	[ SER_MESMO ] CNJS NACIONAL PORTUGAL REPRESENTANTE JOVEM [ SER_MESMO ]
+( eu não quero falar muitos mais minutos ... )	EU MUITO MINUTO LONGO EU [ NÃO-QUERER ]
+como estivesse a dizer sim com a cabeça de forma involuntária	[ MÃO_BAIXAR_CABEÇA_PARA_DIZER_SIM ]
+é o mesmo homem gordo com cabelo comprido que está ali	HOMEM [ SER_MESMO ] GORDO [ CABELO_COMPRIDO ] [ HOMEM_ESTAR_ALI ]
+eu vejo que é o que acontece	EU VER CERTO
+atravessou a rua	[ ATRAVESSAR_RUA ]
+A relação das associações e dos jovens	RELAÇÃO ASSOCIAÇÃO E JOVEM
+Eu espero que vocês pensem bem	EU ESPERAR VOCÊS PENSAR BEM
+um grande problema isso	GRANDE PROBLEMA ISSO
+Antes gestuava-se doce pingo ( não-económico )	ANTES [ DOCE_MEL_PINGO ]
+Não ligues o importante é educação de língua gestual e outras coisas	[ NÃO_LIGAR ] IMPORTANTE EDUCAÇÃO [ LÍNGUA_GESTUAL ] DIFERENTE+
+Lá não há	NORMAL [ ENTRADAS_LATERAIS ] TER LÁ NÃO_HAVER FECHADO
+e abraça-la	[ ABRAÇAR_ESTÁTUA ]
+Soletrar o m e minipreço é muito chato/perda de tempo	M M SOLETRAR
+Em terceiro 5	[ TERCEIRO-TRÊS ] OU 5 [ POR_CENTO ]
+continuaram os dois o seu caminho	[ DOIS_HOMENS_SEGUIRAM_CAMINHO ] [ DOIS_HOMENS_SEGUIRAM_CAMINHO ]
+porque	PORQUE
+É sobre descansar no fim de semana	IGUAL [ FIM_DE_SEMANA ] DESCANSAR
+Eu já expliquei os números	IGUAL NÚMERO UM DOIS TRÊS ( ) ETCÉTERA 1 2 3 4 EXPLICAR JÁ
+temos de combinar	COMBINAR
+eu gostaria de falar de uma coisa curta	CURTO ISTO// ESPERAR [ PÔR_DE_PARTE ] BOCADINHO
+há algum problema	PROBLEMA HAVER
+Qual o número do autocarro	AUTOCARRO NÚMERO
+Agora continuar o trabalho em como exemplificar ( fazer exemplos )	AGORA TRABALHO CONTINUAR EXEMPLO COMO
+A sério - pergunta o elefante	[ TROMBA_COMPRIDA-A_SÉRIO ]
+Eu frequentava a disciplina de natação	EU IR DISCIPLINA NATAÇÃO
+Como é que pode fazer exercício físico se está numa cadeira de rodas	HAVER EXERCÍCIO [ CADEIRA_DE_RODAS ] NADA ELA
+Primeiro choram e gritam tal como acontece aos ouvintes	[ OS_DOIS ] MAS COMEÇAR PALAVRA NÃO GESTO
+Podem trazer outros atores surdos	DAR
+Eu aplaudo	EU [ APLAUDIR_NO_AR ]
+antes sabia pouco	AGORA ANTES POUCO
+Mas já era um bocadinho noite	ANDAR ANDAR //
+11 ou 13	11 OU 13
+eu pensava que via via	VIDRO PAREDE PORQUE EU PENSAR ( =NÃO_SABER ) PARECER
+Dizer autocarro 5 ( configuração específica ) é o mesmo que contar 5 autocarros	AUTOCARRO 5 [ QUERER_DIZER ] [ EN ( 1,2,3,4,5 ) -AUTOCARROS_ESTACIONADOS ] 5
+E bati com A cabeça e com o joelho	DOIS
+A Paula vinha frequentemente	UNIÃO PAULA_TEIXEIRA
+Os ouvintes são muito fortes	OUVINTE FORTE
+antes de terminar o curso da universidade	ANTES EU IDEIA QUERER DENTRO FIM
+Captam através do olho	OLHO CAPTAR
+a seguir há pouco tempo em 2018 fui à Polónia	A_SEGUIR HAVER_POUCO_TEMPO 2018 EU IR EUROPA SER POLÓNIA LOCAL
+e fiquei forte tal como os ouvintes	ASSIMILAR FORTE IGUAL OUVINTE
+Concordam comigo ou ...	SE NÓS CONCORDAR OU ....
+O tema é sobre Palblo Boet ( Pablo Bonet )	TEMA PALBLO BOET
+podem ser muito diferentes	PODER MUITO DIFERENTE
+não havia estavam fechados e era domingo	ALI NÃO_HAVER FECHADO [ DOMINGO-FECHADO ] FECHADO
+Eu vi uma pessoa que não me lembro o nome gestual	EU [ NOME_GESTUAL ] LEMBRAR NÃO
+Em Portugal há pouca divulgação da Língual Gestual Portuguesa	DIVULGAÇÃO PORTUGAL DELE GESTO [ HAVER_POUCO ]
+e finalizámos	COMER PRONTO
+zangado continuou a andar	ZANGAR ANDAR
+e faz o fogo	DAR FOGO
+para separar parte profissional/privada tem de separar que pode pôr ou tirar a máscara	[ SER_MESMO_ASSIM ] [ PÔR_MÁSCARA ] [ TIRAR_MÁSCARA ] PODER
+mas não que eu era o único	[ EU-PESSOA ] [ SER_ÚNICO-PESSOA ] [ HAA-PESSOA ]
+Pode estar equilibrado	PODER EQUILÍBRIO
+O número do autocarro é o 58	AUTOCARRO 58
+e o seu amigo respondeu	HOMEM OUTRO AMIGO RESPONDER
+Gestua o quê	ELA GESTUAR
+Olhem para vocês próprios e pensem um bocadinho ok	OLHAR-PARA-SI-MESMO PENSAR BOCADINHO OK
+É isso	[ SER_ISSO ]
+Agora vou falar um bocadinho sobre animais	AGORA EU EXPLICAR BOCADO SOBRE LIGADO ANIMAL
+Sinto oom o futebol e diversos desportos	SENTIR FUTEBOL DIFERENTE
+O Amílcar falou em relação ao cérebero	ELE NG ( AMÍLCAR ) ELE LIGAR CÉREBRO
+lembro-me que chocarmos um com o outro lá atrás	LEMBRAR CHOQUE [ LÁ_ATRÁS-CHOQUE ]
+segundo por exemplo	SEGUNDO IGUAL
+Está ali o crocodilo - diz o elefante-filho todo contente	[ TROMBA-ESTAR_ALI-MUITO-CONTENTE ]
+Agora tem vindo a diminuir	AGORA DIMINUIR
+ia a caminhar com as mãos nos bolsos e frequentemente gostava estar absorto nos seus pensamentos	[ MÃOS_NOS_BOLSOS ] FREQUENTE GOSTAR IMAGINAR
+Só na comunidade surda	SÓ NÓS COMUNIDADE SURDO
+O grupo dos negros	NEGRO GRUPO
+é possível que sejam classificadores	TALVEZ
+espero que sim	ESPERAR
+como sabem que na parte da surdez	SABER SURDEZ [ POR_UM_LADO ]
+na minha vida quotidiana ao longo do tempo é frequente haver ouvintes	EU [ TODOS_OS_DIAS ] VIDA MEU OUVINTE SER_FREQUENTE AQUI DENTRO HAVER [ ATÉ_AO_MOMENTO ]
+A tartaruga ficou furiosa	FURIOSO [ TARTARUGA-ZANGADO ]
+Ela a Helga Stevens	MULHER ELA NG ( Helga Stevens )
+o quarto já estava pronto e limpo	PRONTO JÁ LÁ QUARTO LÁ LIMPO PRONTO
+tal e qual	FONOLOGIA
+O elefante a chorar com as folhas na tromba	[ FOLHA-TROMBA ]
+Olá o meu nome gestual é André	OLÁ [ NOME_GESTUAL_MEU ] NG ( André )
+Sim 5 pronto	[ 5-SIM ] PRONTO
+Quem é que aparece	QUEM APARECER
+e subiu	[ TARTARUGA_SUBIR ]
+eu tinha	EU IDADE
+segundo ou eu ou nós trabalharmos em equipa	SEGUNDO OU [ EU-EU ] TRABALHAR NÓS EQUIPA
+pegou nela e levou para casa	IX ( ela ) CL ( pegar-nela ) E LEVAR CASA
+Pôs-se a tromba a balançar-se	[ TROMBA_COMPRIDA_BALANÇAR ]
+Eu não percebo porque a maioria dos surdos estão sempre a comparar-se com os ouvintes	SEMPRE EU PERCEBER NÂO MAIOR SURDO SEMPRE COMPARAR OUVINTE
+a pessoa comprava este carro	EU PESSOA COMPRAR ESSE
+E acrescentar novos	NOVO ACRESCENTAR
+o estudo da morfologia em língua gestual	ESTUDO TEMA MORFOLOGIA LÍNGUA_GESTUAL
+ambos estavam a andar quando de repente chocaram um contra o outro e as suas cabeças também	[ ANDAR-ANDAR [ DOIS_CORPOS_CHOCAR ] [ DUAS_CABEÇA_CHOCAR ]
+Mais o quê ...	MAIS
+Pode ser feita qualquer uma destas duas formas	[ PODER_SER_FEITA_DUAS_FORMAS ]
+não é clicar só no gosto para ter mil gostos ( likes )	NÃO_SER JURAR CLICAR GOSTO MIL PESSOA
+queriam procurar 20 alunos	PROCURAR QUERER PESSOA+ ALUNO ( N ) 20 QUANTIDADE
+Um homem é muito gordo e de cabelo comprido	ELE HOMEM GORDO [ CABELO_COMPRIDO ]
+Eu estou praticamente em pé de igualdade	EU [ MESMO_NÍVEL ] SUFICIENTE
+Não é fazer limites	LIMITAR LIMITE [ NÃO_SER ]
+Então aproveitamos sempre buscar pessoas	ENTÃO APROVEITAR SEMPRE [ TRAZER_PESSOAS ]
+Vou dar um exemplo pronto	1 EXEMPLO PRONTO
+É extremamente muito importante	MUITO PRINCIPAL MUITO
+para ver como é feito o dessenvolvimento	HAVER
+( Vou explicar ) Pronto	PRONTO
+a tromba ainda presa nos dentes do crocodilo e a fazer força para se libertar	[ TROMBA_ESTICAR-DENTES_CROCODILO_PUXAR_PARA_FORA ]
+Eu estou a falar é ...	EU FALAR SER //
+É hoje a disputa entre a lebre e a tartaruga	DISPUTA LEBRE TARTARUGA ELE ELE PRONTO
+Depois nas férias ia a casa	DEPOIS FÉRIAS [ IR-EMBORA ] CASA
+é mesmo filmada a segunda filmagem	[ DOIS-DOIS ]
+e a dizerem que ficou em primeiro	TU
+porque já tinham mesmo escolhido o ator ouvinte	SER OUVINTE JÁ ATOR ESCOLHER OUVINTE [ SER_MESMO ] ESCOLHER [ ELE-ESCOLHER ]
+é isso tentar alisar e não pôr muita palha junta	ISSO TENTAR ALISAR MUITO [ PALHA_JUNTA ] NÃO
+Não há	NÃO_HAVER
+Fomos passear vimos o quê	PASSEAR VER
+eu dar-se ao trabalho de estar sempre a soletrar	EU [ DAR_MUITO_TRABALHO-SOLETRAR ]
+e mudei-me para a ilha de São Miguel	MUDAR AQUI ILHA [ SÃO_MIGUEL ]
+Depois surdo mudo o que é	SEGUNDO SURDO MUDO [ O_QUÊ_SER ]
+então por coincidência que aconteceu os dois homens que passavam ali na esquina de um prédio alto	ENTÃO [ DOIS_ESTE-DOIS ] [ ACONTECER-DOIS ] [ PASSAR-DOIS ] [ COINCIDÊNCIA-DOIS ] [ ALI-DOIS ] ESQUINA [ CASA-ESQUINA ] [ PRÉDIO_ALTO_ESQUINA-PRÉDIO_ALTO_ESQUINA ]
+O fogo é o principal	FOGO ASSIM PRINCIPAL
+e seguir o grupo de surdos para a política sim	SURDO SEGUIR [ GRUPO_SEGUIR ]
+Se nós começamos a reclamar de forma negativa ainda é pior	SE NÓS NEGATIVO [ DIZER_PALAVRAS ] DAR PIOR
+porquê	PORQUÊ
+Verdade	[ SER_VERDADE ]
+A cobra disse : Espera	[ COBRA-TROMBA ] [ ESPERA -TROMBA ]
+eu não gosto e pronto	TU EU GOSTAR NÃO FIM
+Isso é muito importante que influencie	[ MUITO_IMPORTANTE ] ISSO INFLUÊNCIA
+Eu estou a desabafar	EU DESABAFAR
+porque é maricas	PORQUE SER MARICAS
+e não há perguntas	NÃO_HAVER PERGUNTAR [ RECOLHER_PERGUNTAS ] NÃO-HAVER
+Aqui em Portugal antes não havia	XXX PORTUGAL ANTES NÃO_HAVER
+que nos trate de nós	[ CUIDAR_ME ]
+A escola é lá	ESCOLA ALI
+e isso também dá mau resultado na mesma	TAMBÉM DAR MAU MESMO
+fazia as coisas à sua vontade	ELES FAZER [ IR_EMBORA ]
+ganha o primeiro	GANHAR PRIMEIRO QUERER
+Eu gostava na Europa	EU QUERER LÁ EUROPA
+Lá no CED Jacob Rodirgues Pereira estava frequentemente a ganhar aos outros	EU SURDO ESTAR_JUNTO GRUPO [ CED_JACOB_RODRIGUES_PEREIRA ] SEMPRE GANHAR_AOS_OUTROS
+e perguntam qual é o meu gesto	GESTO MEU QUAL
+Todo aprumado	MAGRO [ FORMA_DE_VESTIR_FORMAL ]
+não podemos gestuar ...	NÃO_PODER GESTUAR
+Eu estava distraída	( ) DISTRAÍDO [ DOR_CABEÇA ] NÃO_DAR
+2º alcóol	[ SEGUNDO- [ ALCOOL-DEITAR ] ] PÔR
+Agora vou mostrar uma criança de um ano e meio	MOSTRAR CRIANÇA ELE IDADE
+vocês não sabem	VOCÊ NÃO_SABER
+e aliciá-los	ALICIAR
+passou por cima de uma poça de água perto do passeio onde circulava o homem gordo e a água foi projetada para o homem gordo	CARRO [ FORMA_CARRO ] [ POÇA_DE_ÁGUA ] [ HOMEM_A_ANDAR ] [ ÁGUA_A_SER_PROJETADA_PARA_O_HOMEM_GORDO ]
+e viu-se que havia gestos que irei mostrar	[ POR_EXEMPLO ] BREVEMENTE [ SER_ISSO ] TEMA MEU
+e de repente começou dirigir para outras lojas diferentes de roupa	[ DE_REPENTE_DIRIGIR_OUTRA_LOJA ] ROUPA VÁRIOS LOJA DIFERENTE
+Eu sei que nós em Portugal ainda estamos atrasados	AQUI PORTUGAL ATRASADO [ SABER_EU ]
+Até agora a minha vida tem sido assim	[ ATÉ-AGORA ] VIDA MEU [ SER_ISTO ]
+Passemos para o terceiro ponto	SEGUINTE [ APONTAR-TRÊS ]
+e resolver permite-nos conseguir alguma coisa boa e positiva	RESOLVER DAR FIM POSITIVO BOM CONSEGUIR
+E isso é uma acção um verbo	COISAS EXEMPLO CARRO [ FORMA_DO_ESTACIONAMENTO ]
+o rapaz gordo com uma grande barriga	HOMEM ELE [ SER_GORDO ] [ GRANDE_BARRIGA ] RAPAZ
+ponto seguinte : chefe de missão	SEGUINTE ALI CHEFE MISSÃO ( =GUIA )
+as mulheres avaliam os aspetos que gostem ou não de ver nos homens	AVALIAR HOMEM PESSOA [ VER_SE_SER_BOM_OU_SER_MAU ]
+que dá para nadar	PODER NADAR
+eu entrei e fui buscar o cartão para a porta do quarto	EU ENTRAR BUSCAR CARTÃO PORTA
+ir fazer compras	IR COMPRAS
+Eu ponho	EU PÔR
+e as pessoas ouvintes viam e percebiam	[ PESSOAS-PESSOA ] [ OLHAR-PESSOA ] [ OUVINTE-PESSOA ] IGUAL
+Existem pouca variedade de supermercados	SUPERMERCADO VÁRIOS POUCO
+Bati com as pernas	NÃO [ BATER_COM_PERNAS ] IGUAL
+e também por ser lento e pesado	SIM SER ANIMAL
+Não é uma sociedade minoritária um grupo minoriitário ou uma comunidade	[ NÃO_SER ] SOCIEDADE MINORIA COMUNIDADE NÃO
+Olá a todos bom dia	OLÁ TODOS BOM DIA
+este morfema aditivo é composto por dois gestos que dão origem a um novo	ESTE MORFEMA [ ADITIVO-MORFEMA ] TER DOIS COMPOSTO GESTO
+os dois ficaram bastante zangados muito zangados	ZANGAR DOIS ZANGAR
+porquê	PORQUÊ
+os dois chocaram-se um contra o outro e caíram	[ HOMEM_ANDAR_CHOCAR_OUTRO_CAIR-HOMEM_ANDAR_CHOCAR_OUTRO_CAIR ]
+o homem magro todo feliz e divertido foi-se embora	[ AHAHAH-CARRO ]
+é a forma de pensar	[ ESTRUTURA-FORMA ] PENSAR FORMA
+depois vou contar a história sobre o que	DEPOIS CONTAR HISTÓRIA O-QUE
+Pronto	PRONTO
+Vejam ali ( a palavra ) desporto	[ VER-ALI ] DESPORTO
+óptimo	BOM
+O próprio elefante viu a sua tromba comprida	[ TROMBA_COMPRIDA-VER ]
+Mas não começam com palavras	GESTO UM GESTO DOIS
+essa pessoa era assim	COSTUME/FREQUENTE SER-ASSIM
+Ao início a união com os ouvintes ...	UNIÃO
+Viu e pensou que sendo surdo	PENSAR SURDO NÃO_ACREDITAR
+Hum ...	HUM ...
+eu pedi que queria que tu trabalhasses	IX ( eu ) PEDIR QUERER IX ( tu ) TRABALHAR
+Iam a gestuar sem se agarrarem a nada e sem segurança	SURDO GESTUAR [ AGARRAR-SE-COM-AS-MÃOS ] SEGURANÇA [ NÃO_HAVER ]
+Falta	FALTAR
+A lebre foi até ao rio	RIO [ COELHO_SALTAR ]
+Por exemplo eu lembrei-me de mostrar os exemplos dos números	EXEMPLO EU EXEMPLO EU IDEIA EXEMPLO NÚMERO
+A mulher não percebe	PERCEBER_NÃO IGUAL [ COMUNICAÇÃO_FALHAR ]
+Serás tu	TU
+Vocês ficam só a ver	SÓ VER
+outras pessoas entram para participar	OUTRO PESSOA [ ENTRAR-COMUNIDADE ] [ DENTRO-COMUNIDADE ] PARTICIPAR [ SER_ISSO ]
+mas agora o importante não é a pensão	MAS AGORA IMPORTANTE PENSÃO NÃO
+existe um psicólogo surdo que gestua em língua gestual	PESSOA PSICÓLOGO IX ( ele ) GESTUAR SURDO TER PESSOA
+como alastrar o fogo	DEPOIS COMO [ FOGO_ALASTRAR ]
+Nós erámos 5	[ NÓS_5 ]
+Igual como	MORFOLOGIA DESENVOLVIMENTO
+Vieram para casa	VIR CASA
+Depois de 1980 começou a desenvolver-se ( gestos para marcas )	[ DEPOIS_DESSA-DATA ] DESENVOLVER
+Elefante	PATA
+e esquecem do outro	ESQUECER OUTRO
+Não é	NÃO_SER
+Eu cresci integrada em turma de ouvintes desde o primeiro ao quarto ano escolar	EU CRESCER PRIMEIRO ESCOLA PRIMEIRO SEGUNDO TERCEIRO QUARTO EU OUVINTE INTEGRAR
+Enfim Portugal inteiro estava livre	[ REGIÃO-DO-MAPA ] PORTUGAL PORTUGAL [ REGIÃO-DO-MAPA ] LIVRE PRONTO
+Por outro lado ja disse que depois	FIM [ AO_LADO ] DIZER DEPOIS
+Se o Amílcar Morais	SE NG ( Amílcar Morais )
+Sim em 2017 fui aos surdolímpicos na Turquia	2000 ... 17 IR OLÍMPICOS SURDO TURQUIA IR
+Eu fui no secundário a uma aula de psicologia fui	EU IR ( FUI ) SECUNDÁRIO AULA PSICOLOGIA EU IR ( FUI )
+ou inclina a mão juntamente com o `` i '' ou apenas o mindinho	OU [ INCLINAR_MÃO_I ] [ INCLINAR_I_MINDINHO ]
+Sempre se focou na preocupação nos séniores	SEMPRE FOCAR SÉNIOR PREOCUPAÇÃO
+fiquei habituado e pronto	EU HABITUAR PRONTO
+até que viu o homem gordo a andar	VER ANDAR [ FORMA_DO_CABELO_DO_HOMEM_GORDO ] ALI
